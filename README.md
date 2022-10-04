@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isai Cerón (Iroh Sora)</h1>
-<h3 align="center">Software Developer made in MX</h3>
+<h1 align="center">Hi 👋, I'm Isai Cerón (codeSora)</h1>
+<h3 align="center">Solutions Architect made in MX</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -9,7 +9,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Software Snack Development Industries** 
+- 🔭 I’m currently working on **soraCode** 
 
 - 🌱 I’m currently using **HTML, CSS, JavaScript ...**
 
