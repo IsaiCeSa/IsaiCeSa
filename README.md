@@ -9,7 +9,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **soraCode** 
+- 🔭 I’m currently working on **codeSora** 
 
 - 🌱 I’m currently using **HTML, CSS, JavaScript ...**
 
