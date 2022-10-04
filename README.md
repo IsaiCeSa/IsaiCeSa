@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isai Cerón (codeSora)</h1>
+<h1 align="center">Hi 👋, I'm Isai Cerón (@IrohSora)</h1>
 <h3 align="center">Solutions Architect made in MX</h3>
 
 <p align="center">
@@ -9,10 +9,8 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **codeSora** 
-
-- 🌱 I’m currently using **HTML, CSS, JavaScript ...**
-
+- Currently work as a SA at @codeSora. ⭐️
+- Using **HTML, CSS, JavaScript ...**
 - 💬 Ask me about **Cobol**
 
 <h3 align="center">Connect with me:</h3>
